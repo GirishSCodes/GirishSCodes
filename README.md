@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GirishSCodes
+- 👋 Hi, I’m Girish Shinde
 - 👀 I’m interested in learning new technologies 
 - 🌱 I’m currently learning C++
 - 💞️ I’m a BTech Undergrad 
