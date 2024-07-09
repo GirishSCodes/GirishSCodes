@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **sgirish1204@gmail.com**
 
-- ⚡ Let's connect <a href="https://girishsh.bio.link">BIO LINK</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="background-color: rgb(238, 130, 130);">
